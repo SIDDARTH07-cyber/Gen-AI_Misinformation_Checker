@@ -62,3 +62,8 @@ This is just a prototype project. It is not 100% perfect, but it shows how we ca
 
 
 ![Image](https://github.com/user-attachments/assets/b473427f-399a-43d9-a865-f7d1953be309)
+![Image](https://github.com/user-attachments/assets/6aa5fae2-8668-4f54-8a3c-95506185792a)
+
+![Image](https://github.com/user-attachments/assets/49daee5e-9b64-43ba-bcf2-283d5c8a31a2)
+
+![Image](https://github.com/user-attachments/assets/63741ed8-2b54-4c5b-b698-b0c1bb76f008)
