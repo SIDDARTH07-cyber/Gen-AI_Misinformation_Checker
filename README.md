@@ -61,3 +61,4 @@ Conclusion:
 This is just a prototype project. It is not 100% perfect, but it shows how we can fight misinformation with AI. With more time and resources, this can be developed into a full website or even a mobile app that helps people quickly verify news and information.
 
 
+![Image](https://github.com/user-attachments/assets/b473427f-399a-43d9-a865-f7d1953be309)
